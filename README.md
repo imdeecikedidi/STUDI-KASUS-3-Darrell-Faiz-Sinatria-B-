@@ -1,1 +1,3 @@
-# STUDI-KASUS-3-Darrell-Faiz-Sinatria-B-
+<img width="307" height="362" alt="image" src="https://github.com/user-attachments/assets/fb810539-ff8e-4e13-a96e-bf415a5075ad" />
+
+# Jadi kode ini adalah program sederhana untuk mengatur peminjaman buku. Di awal, program menampilkan daftar buku yang tersedia, lalu pengguna bisa memilih untuk meminjam, mengubah, atau menghapus buku yang sudah dipinjam. Buku yang dipinjam disimpan di dalam pinjaman, sedangkan append() itu digunakan untuk menambahkan buku dan pop() untuk menghapusnya. Menu akan terus muncul sampai pengguna memilih selesai. Setelah itu, program menampilkan daftar buku yang sudah dipinjam. Terima kasih
